@@ -5,8 +5,6 @@
 
 # name
 
-image or gif
-
 ## Overview
 
 ## Requirement
@@ -18,9 +16,3 @@ image or gif
 ## Reference
 
 ## Author
-
-[twitter](https://twitter.com/Kotabrog)
-
-## Licence
-
-[MIT](https://......)
